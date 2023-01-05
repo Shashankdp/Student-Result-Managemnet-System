@@ -1,4 +1,4 @@
-# Student-Result-Managemnet-System
+# Student-Result-Management-System
 
 Student Management Portal Update the result for student. showing the result to student. using javaswing, awt, jframe,Mysql...
 
